@@ -117,14 +117,14 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
 
-![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/3ca2e9dd-6738-4349-b97a-e11332fe3ee3)
+
 
 ## Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/cc88d054-d852-443d-81e1-240061d68e7f)
+ 
 
   
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -132,7 +132,6 @@ and issue appropriate commands
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 
 
-![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/3c7db18b-d88f-45a3-b387-d1f60fc24465)
 
 
 
