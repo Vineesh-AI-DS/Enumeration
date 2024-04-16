@@ -101,9 +101,8 @@ Dnsenum is a multithreaded perl script to enumerate DNS information of a domain 
 - Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
-![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/017461e3-d399-46dd-9b5b-a0b4d1fac9d2)
 
-![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/97361d36-8df3-48eb-a692-df70c58a5f91)
+![e3](https://github.com/Vineesh-AI-DS/Enumeration/assets/93427254/693c2c0c-00bd-4ed4-955e-2604fe11e24b)
 
 
 ## smtp-user-enum:
