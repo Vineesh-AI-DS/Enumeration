@@ -108,12 +108,14 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 ## smtp-user-enum:
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
-![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/ef22300b-9b15-4d41-99a0-0df1dd5c274a)
+
+![e4](https://github.com/Vineesh-AI-DS/Enumeration/assets/93427254/d6d108eb-a061-4c1f-8b01-acb99b9c932f)
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
-![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/6640e8b0-f5c7-4fb2-ad53-5dcdac7c6df8)
+![e5](https://github.com/Vineesh-AI-DS/Enumeration/assets/93427254/1fa726e3-abc1-4f84-8de6-63c555eb97a6)
+
 
 select any username in the first column of the above file and check the same
 
