@@ -83,7 +83,9 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 
-![image](https://github.com/Vanitha-SM/Enumeration/assets/119557985/59307aa7-b90c-4ff7-bc53-367d9ad44b31)
+
+![e1](https://github.com/Vineesh-AI-DS/Enumeration/assets/93427254/1c0e832c-630d-4471-8e6b-b562bb0010c7)
+![e2](https://github.com/Vineesh-AI-DS/Enumeration/assets/93427254/a47d1e11-174e-4e8f-821f-64668fcaa090)
 
 ## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
